@@ -7,4 +7,4 @@ This repository recreates Zhang et al.'s work on real-time bidding frameworks in
 since these contain code that no longer works due to the [deprecation of Python 2](https://www.python.org/doc/sunset-python-2/). 
 
 The folder `make-ipinyou-data` contains the steps needed to recreate the data needed for RTB experiments.
-The folder `optimal-rtb` contains the CTR predictor using the data created by `make-ipinyou-data`.
+The folder `optimal-rtb` contains the RTB experimentation code which uses the data created by `make-ipinyou-data`. 
